@@ -1,11 +1,11 @@
 # Road Map
 Guide for development across multiple phases. Eventually **Phase 7** will be split into subphases once the basis of the app is built.
 ## Phase 0 - Setup
-- [ ] Create GitHub repository for collaborative work
-- [ ] Add README, .gitignore, MIT LICENSE
-- [ ] Set up backend folder
-- [ ] Set up frontend folder
-- [ ] Protect main branch
+- [x] Create GitHub repository for collaborative work
+- [x] Add README, .gitignore, MIT LICENSE
+- [x] Set up backend folder
+- [x] Set up frontend folder
+- [x] Protect main branch
 
 ## Phase 1 - Backend Foundations
 - [ ] Get Drogon server running locally
