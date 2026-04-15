@@ -1,0 +1,1 @@
+/usr/bin/c++  -arch arm64 -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/crewgle_backend.dir/src/main.cpp.o -o crewgle_backend  -Wl,-rpath,/opt/homebrew/lib /opt/homebrew/lib/libdrogon.1.9.12.dylib /opt/homebrew/lib/libtrantor.1.5.26.dylib /opt/homebrew/lib/libjsoncpp.dylib

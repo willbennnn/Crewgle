@@ -1,0 +1,3 @@
+/Users/willgallegos/Crewgle/backend/build/CMakeFiles/crewgle_backend.dir
+/Users/willgallegos/Crewgle/backend/build/CMakeFiles/edit_cache.dir
+/Users/willgallegos/Crewgle/backend/build/CMakeFiles/rebuild_cache.dir
