@@ -60,9 +60,29 @@ Below is a list of features associated with past, current, and future iterations
 - [x] Add a "Forgot Password?" option on the login page, only a dev link for now, an email API will be added in the future
 
 ## VERSION 0.3
-Another major new interface for equipment mangament was added, along with some "to-do"s from previous versions being knocked out
+Another major new interface for equipment mangaging was added, along with major overhauls to the erg workout and week view interfaces. Additional features such as lineup grouping in the practice builder and some "to-do"s from previous versions were also knocked out
 
 ### Version 0.3.1
+- [ ] **Equipment Management Interface**
+    - [ ] **FOR BOATS** ~ Enter boats name, year, make, manufacturer, class (sweep/scull/both), coxxed/uncoxxed, size, and notes (for specific rigging information)
+    - [ ] **FOR OARS** ~ Enter Oar manufacturer, make, squad, number (I think we should start numbering oars), inboard, and notes (for paint condition, damage, etc.)
+    - [ ] **FOR ERGS** ~ Manufacturer, model, number, last service date, lifetime meters at last service, notes
+    - [ ] **FOR “OTHER”** (random stuff like slides, tents, launches, etc) ~ Name, Manufacturer, Model, Year, Number, Serial Number (all fields optional)
+    - [ ] All equipment should have the option to be flagged as “in need of maintenance” (yellow status) or broken (red status) by coaches, captains, officers by default***
+    - [ ] When equipment is flagged, a ticket is created that can be resolved by officers and coaches
 
+### Version 0.3.2
+- [ ] Change week view to calendar with modes for month view, week view, and day view (like Google Calendar)
+    - [ ] Add cross platform calendar using APIs that can link events to google/apple calendar
+          
+- [ ] Make the erg workout section into a more full interface (something like strava, but with more of a rowing focus) *(specify more later)*
+
+### Version 0.3.3
+- [ ] Add an email API to the password reset system
+    
+- [ ] **OPTIONAL LINEUP GROUPING** ~ instead of having to make lineups for practices manually for every practice, have the option to create a lineup group   (Ex: Men’s 1V8) that can be applied easier
+
+## VERSION 0.4
+The first user tested version, user testing began on version 0.4.2. Major additions include the regatta tab using the regatta central API (https://api.regattacentral.com/v4/apiV4.jsp), ... (More later)
 
 
